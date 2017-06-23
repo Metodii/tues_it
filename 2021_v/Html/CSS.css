@@ -1,0 +1,65 @@
+body{
+    background-color:lightgray
+}
+h1{
+    color:black;
+    font-size:60px;
+    border-bottom: 2px solid orange;
+    font-family: "Arial",  sans-serif;      
+}
+h2{
+    position: absolute;
+    top: 135px;
+    font-size:25px;
+    font-family: "Arial",  sans-serif;
+    color:rgb(0, 59, 81);
+}    
+h3{
+    position: absolute;
+    top: 230px;
+    font-size:25px;
+    font-family: "Arial",  sans-serif;
+    color:rgb(0, 59, 81);
+}
+a{
+    position: absolute;
+    top: 8px;
+    right: 20px;
+    font-size: 20px;
+    font-family: "Arial",  sans-serif;
+    color:black
+}
+p{
+    position: absolute;
+    top: 12px;
+    right: 20px;
+    font-size: 20px;
+    font-family: "Arial",  sans-serif;
+    color:black
+}
+p1{
+    position: absolute;
+    top: 51px;
+    right: 20px;
+    font-size: 20px;
+    font-family: "Arial",  sans-serif;
+    color:black
+}
+p2{
+    position: absolute;
+    top: 162px;
+    left: 330px;
+    font-size: 20px;
+    font-family: "Arial",  sans-serif;
+    font-style: italic;
+    color:black;
+}
+p3{
+    position: absolute;
+    top: 260px;
+    left: 330px;
+    font-size: 20px;
+    font-family: "Arial",  sans-serif;
+    font-style: italic;
+    color:black;
+}
